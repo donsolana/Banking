@@ -1,12 +1,12 @@
 # Banking
 
-##Introduction
+## Introduction
 This project is divided into two parts; EDA and ML
 
-###Exploratory Data Analysis
+### Exploratory Data Analysis
 This portion aims to garner insights from transaction data, through data manipulation, descriptive statistics and visual exploration. The dataset contained in this project was provided by Australia and New Zealand Banking Group for a virtual internship program they offer. The data is a synthensized representation of transactions over a three month period. I hope you enjoy following this analysis as much as i enjoyed putting it together.
 
-###Visual inspection and Cleaning
+### Visual inspection and Cleaning
 To begin the exploration, we should start by loading all the required libraries. The package "tidyverse" contains a host of libraries with functionalities such as data visualization with ggplot2, data manipulation with dplyr,reading excel files with readxl and working with dates and time with lubridate that will be useful for our journey. Next we read-in the data and observe its structure. We should also check the first and last few values to get a feel for the dataset.
 
 ### Machine Learning
