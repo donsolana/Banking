@@ -36,7 +36,7 @@ To accomplish we will follow the following steps:
 5. Select model with the least error.
 6. Make predictions on the test set.
 
-#### Recommendations and Conclusions
+## Recommendations and Conclusions
 
 Both the linear model and the decision tree produces relatively high error value and the R-squared value of the linear model indicated that the model cannot explain the variation in the distribution.
 
