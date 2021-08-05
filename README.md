@@ -40,4 +40,4 @@ To accomplish we will follow the following steps:
 
 * Both the linear model and the decision tree produce relatively high error value
 * The R-squared value of the linear model indicated that the model cannot explain the variation in our data.
-* A more advanced model with more information such as *education*  and *occupation* can produce more accurate predictions. 
+* A more advanced model with more information such as ***education***  and ***occupation*** can produce more accurate predictions. 
